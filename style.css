@@ -1,17 +1,40 @@
+.outsideContainer{
+	margin: auto;
+	margin-top: 40px;
+    font-family: sans-serif;
+    width: 426px;
+    height: 645px;
+    background-color: #e3e3e3;
+    border-radius: 20px;
+    padding: 0px 12px 18px 41px;
+    box-shadow: 0 0 10px 10px;
+}
+.name{
+	margin: 0;
+	position: relative;
+    top: 33px;
+    font-size: 36px;
+}
+.model{
+	position: relative;
+    right: -317px;
+    top: -12px;
+    top: -22px;
+    color: #aaa;
+}
 #container{
 	width: 399px;
 	height: 524px;
 	display: flex;
 	flex-wrap: wrap;
-	margin: auto;
-    border: 40px solid black;
+	
     text-align: center;
     line-height: 0px;
     justify-content: space-around;
     font-size: 50px;
     font-family: sans-serif;
 	border-radius: 50px;
-	background-color: black;
+	background-color: #E3E3E3;
 }
 .clear{
 	width: 99px;
@@ -32,6 +55,10 @@
 	margin-bottom: 1px;
 	text-align: right;
     line-height: 1.7;
+    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
+    font-family: 'LCD14'; 
+   	font-weight: normal; 
+   	font-style: normal; 
 }
 
 .seven{

@@ -1,6 +1,6 @@
 
 // Get all the keys from document
-var keys = document.querySelectorAll('p');
+var keys = document.querySelectorAll('div p');
 var operators = ['+', '-', 'x', '÷'];
 var decimalAdded = false;
 
@@ -44,7 +44,7 @@ for(var i = 0; i < keys.length; i++) {
 		
 		// We'll fix these issues using some simple checks
 		
-		// indexOf works only in IE9+
+		
 		else if(operators.indexOf(btnVal) > -1) {
 			// Operator is clicked
 			// Get the last character from the equation
