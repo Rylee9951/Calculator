@@ -1,0 +1,251 @@
+#container{
+	width: 400px;
+	display: flex;
+	flex-wrap: wrap;
+	margin: auto;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 0px;
+    justify-content: space-around;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.clear{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.clear:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.screen{
+	width: 299px;
+	height: 104px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+}
+
+.seven{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.seven:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.eight{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.eight:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.nine{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.nine:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.divide{
+	width: 99px;
+	height: 99px;
+	background-color: #82C276;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.divide:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.four{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.four:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.five{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.five:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.six{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.six:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+
+.multiply{
+	width: 99px;
+	height: 99px;
+	background-color: #82C276;
+	margin-bottom: 1px;
+	line-height: 100px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.multiply:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.one{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.one:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.two{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.two:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.three{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.three:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.minus{
+	width: 99px;
+	height: 99px;
+	background-color: #82C276;
+	margin-bottom: 1px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.minus:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.zero{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.zero:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.decimal{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	line-height: 70px;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.decimal:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.equals{
+	width: 99px;
+	height: 99px;
+	background-color: #61B34F;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.equals:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+.plus{
+	width: 99px;
+	height: 99px;
+	background-color: #82C276;
+	margin-bottom: 6px;
+	box-shadow: 0px 5px 0px #00823F;
+	transition: all ease 0.3s;
+}
+.plus:active {
+  box-shadow: 0 2px 0 #00823F;
+  top: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
